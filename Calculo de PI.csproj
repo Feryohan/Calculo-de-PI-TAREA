@@ -84,5 +84,8 @@
   <ItemGroup>
     <None Include="Resources\SeriePI.JPG" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Basilea.JPG" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

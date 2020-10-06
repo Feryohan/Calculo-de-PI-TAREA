@@ -63,6 +63,16 @@ namespace Calculo_de_PI.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Basilea {
+            get {
+                object obj = ResourceManager.GetObject("Basilea", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap SeriePI {
             get {
                 object obj = ResourceManager.GetObject("SeriePI", resourceCulture);
