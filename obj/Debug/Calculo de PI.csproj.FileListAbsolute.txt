@@ -1,0 +1,10 @@
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Calculo de PI\bin\Debug\Calculo de PI.exe.config
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Calculo de PI\bin\Debug\Calculo de PI.exe
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Calculo de PI\bin\Debug\Calculo de PI.pdb
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Calculo de PI\obj\Debug\Calculo de PI.csprojAssemblyReference.cache
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Calculo de PI\obj\Debug\Calculo_de_PI.Form1.resources
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Calculo de PI\obj\Debug\Calculo_de_PI.Properties.Resources.resources
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Calculo de PI\obj\Debug\Calculo de PI.csproj.GenerateResource.cache
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Calculo de PI\obj\Debug\Calculo de PI.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Calculo de PI\obj\Debug\Calculo de PI.exe
+C:\Users\SERGIO ROMO\Documents\Semestre 2021-1\Temas Selectos de Programación\Calculo de PI\obj\Debug\Calculo de PI.pdb
